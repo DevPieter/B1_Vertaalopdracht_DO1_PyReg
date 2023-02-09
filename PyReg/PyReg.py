@@ -4,7 +4,7 @@ print("========== PyReg ===========")
 print("Welkom bij PyReg, het Python KassaSysteem voor en door DeveloperLand!")
 print("Tel de kassa, en geef op hoeveel er nu in zit.")
 
-# Start programma, stel nodige variabelen inø
+# Start programma, stel nodige variabelen in
 bedragInKassaBegin = float(input("Bedrag in kassa? "))
 keuze = 0
 dagTotaal = 0
